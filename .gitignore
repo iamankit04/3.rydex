@@ -1,0 +1,14 @@
+# Frontend
+rydex/node_modules/
+rydex/.next/
+rydex/.env
+rydex/.env.local
+
+# Backend
+socketServer/node_modules/
+socketServer/.env
+
+# General
+node_modules/
+.next/
+.env
